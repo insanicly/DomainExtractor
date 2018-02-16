@@ -1,4 +1,4 @@
-package com.comodo;
+package com.saglam.alper;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

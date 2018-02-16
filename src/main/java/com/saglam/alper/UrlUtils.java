@@ -1,4 +1,4 @@
-package com.comodo;
+package com.saglam.alper;
 
 import com.google.common.net.InternetDomainName;
 
