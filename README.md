@@ -5,3 +5,7 @@ Project will create a file named result.txt
 
 TODO: make it working with arguments.
 TODO: create statistics
+
+
+
+deneme
